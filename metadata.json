@@ -1,0 +1,6 @@
+{
+  "name": "Supabase Vue Portal",
+  "description": "Pagina singola standalone all-in-one pronta per il deployment: autenticazione Google OAuth popup, transizione fluida e caricamento dati tabella testab da Supabase con Vue.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
